@@ -15,4 +15,4 @@ Při vytváření HTML pro odpovědi dodrž následující strukturu:
 Takto připravené HTML pak pokaždé vlož na stránce do <div id="moznosti">
 Musíš nejprve smazat ten starý seznam, který už tam je.
 
-Data pro kvíz jsou uložena v poli otazky. Každa otázka je objekt, který obsahuje otázku, obrázek k otázce, pole možných odpovědí a index správné odpovědi.
+Data pro kvíz jsou uložena v poli otazky. Každa otázka je objekt, který obsahuje otázku, obrázek k otázce, pole možných odpovědí a index správné odpovědi. 
